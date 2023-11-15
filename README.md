@@ -9,3 +9,5 @@ In that time I've:
 - Submitted **67** pull requests
 - Reviewed **40** pull requests
 - Contributed to **24** public repositories
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub)
