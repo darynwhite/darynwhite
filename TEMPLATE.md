@@ -10,4 +10,4 @@ In that time I've:
 - Reviewed **{{ CODE_REVIEWS }}** pull requests
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub)
+<!-- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub) -->
