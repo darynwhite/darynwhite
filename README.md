@@ -4,10 +4,10 @@ I've been here about **6** years.
 
 In that time I've:
 
-- Pushed **1476** commits
+- Pushed **1478** commits
 - Opened **82** issues
 - Submitted **89** pull requests
-- Reviewed **65** pull requests
-- Contributed to **28** public repositories
+- Reviewed **66** pull requests
+- Contributed to **27** public repositories
 
 <!-- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub) -->
