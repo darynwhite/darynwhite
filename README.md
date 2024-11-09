@@ -8,6 +8,6 @@ In that time I've:
 - Opened **82** issues
 - Submitted **89** pull requests
 - Reviewed **69** pull requests
-- Contributed to **27** public repositories
+- Contributed to **26** public repositories
 
 <!-- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub) -->
