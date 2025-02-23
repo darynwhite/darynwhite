@@ -7,7 +7,7 @@ In that time I've:
 - Pushed **1652** commits
 - Opened **92** issues
 - Submitted **109** pull requests
-- Reviewed **84** pull requests
+- Reviewed **85** pull requests
 - Contributed to **30** public repositories
 
 <!-- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub) -->
