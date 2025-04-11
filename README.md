@@ -4,7 +4,7 @@ I've been working on GitHub for about **6** years now.
 
 In that time I've:
 
-- Pushed **1687** commits
+- Pushed **1688** commits
 - Opened **92** issues
 - Submitted **116** pull requests
 - Reviewed **87** pull requests
@@ -16,3 +16,7 @@ In that time I've:
 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
+
+
+<!-- lastfm -->
+
