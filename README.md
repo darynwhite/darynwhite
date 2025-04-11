@@ -1,21 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h3>Hi there 👋</h3>
+  <h5>I've been working on GitHub for about **6** years now</h5>
+  <p>In that time I've:</p>
+  
+| Activity                  | Count                          |
+|---------------------------:|-------------------------------|
+| Pushed commits            | **1692**            |
+| Opened issues             | **92**             |
+| Submitted pull requests   | **116**      |
+| Reviewed pull requests    | **87**       |
+| Contributed to repositories | **28** |
 
-I've been working on GitHub for about **6** years now.
-
-In that time I've:
-
-- Pushed **1690** commits
-- Opened **92** issues
-- Submitted **116** pull requests
-- Reviewed **87** pull requests
-- Contributed to **28** public repositories
-
-
-<!-- ![My scrobbles](https://www.last.fm/user/dotdub) -->
-<!-- https://www.last.fm/user/dotdub/library/albums?from=2025-03-12&to={{ TODAY_DATE }} -->
-
-
+</div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
+
+<div align="center">
+  <h6>My top 10 albums from the last 7 days</h6>
+</div>
 
 
 <!-- lastfm -->
