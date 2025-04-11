@@ -1,15 +1,29 @@
 <div align="center">
   <h3>Hi there 👋</h3>
-  <h5>I've been working on GitHub for about **6** years now</h5>
+  <h5>I've been working on GitHub for about 6 years now</h5>
   <p>In that time I've:</p>
-  
-| Activity                  | Count                          |
-|---------------------------:|-------------------------------|
-| Pushed commits            | **1692**            |
-| Opened issues             | **92**             |
-| Submitted pull requests   | **116**      |
-| Reviewed pull requests    | **87**       |
-| Contributed to repositories | **28** |
+  <table>
+    <tr>
+      <td align="right">Pushed commits</td>
+      <td><strong>1693</strong></td>
+    </tr>
+    <tr>
+      <td align="right">Opened issues</td>
+      <td><strong>92</strong></td>
+    </tr>
+    <tr>
+      <td align="right">Submitted pull requests</td>
+      <td><strong>116</strong></td>
+    </tr>
+    <tr>
+      <td align="right">Reviewed pull requests</td>
+      <td><strong>87</strong></td>
+    </tr>
+    <tr>
+      <td align="right">Contributed to repositories</td>
+      <td><strong>28</strong></td>
+    </tr>
+  </table>
 
 </div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
