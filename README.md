@@ -4,7 +4,7 @@ I've been working on GitHub for about **6** years now.
 
 In that time I've:
 
-- Pushed **1685** commits
+- Pushed **1686** commits
 - Opened **92** issues
 - Submitted **116** pull requests
 - Reviewed **87** pull requests
@@ -15,4 +15,4 @@ In that time I've:
 <!-- https://www.last.fm/user/dotdub/library/albums?from=2025-03-12&to={{ TODAY_DATE }} -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
