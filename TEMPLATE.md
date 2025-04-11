@@ -11,7 +11,7 @@ In that time I've:
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
 
-![My scrobbles](https://www.last.fm/user/dotdub)
+<!-- ![My scrobbles](https://www.last.fm/user/dotdub) -->
 <!-- https://www.last.fm/user/dotdub/library/albums?from=2025-03-12&to={{ TODAY_DATE }} -->
 
 
