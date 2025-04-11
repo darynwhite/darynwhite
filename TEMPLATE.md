@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've been here about **{{ ACCOUNT_AGE }}** years.
+I've been working on GitHub for about **{{ ACCOUNT_AGE }}** years now.
 
 In that time I've:
 
@@ -10,4 +10,5 @@ In that time I've:
 - Reviewed **{{ CODE_REVIEWS }}** pull requests
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
-<!-- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=dotdub) -->
+<!-- ![My scrobbles](https://www.last.fm/user/dotdub) -->
+<!-- https://www.last.fm/user/dotdub/library/albums?from=2025-03-12&to=2025-04-11 -->
