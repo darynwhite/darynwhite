@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="right">Pushed commits</td>
-      <td><strong>1704</strong></td>
+      <td><strong>1710</strong></td>
     </tr>
     <tr>
       <td align="right">Opened issues</td>
@@ -34,4 +34,4 @@
 
 
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d8c69121d829c66b65e6003a5d4415f8.jpg" title="Gunship - Unicorn"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fdcd8a3afa4a5584cc585c5ee6d06873.jpg" title="Neon Odin - Allfather"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ce6e2af584a5480b85b79371b219a92e.png" title="Gorillaz - Plastic Beach"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5526cfe62a8b32bc1cbcde8460e82784.jpg" title="The Midnight - Heroes"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9796e379c481a7e38af5b81613d27141.jpg" title="Cocomelon - Cocomelon Kids Hits, Vol. 4"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8bb4d4325fb469795e932f7380a63782.jpg" title="Tony Anderson - The Heart Of Man"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7c804b2219fb1978fd44013c9bfa5e24.jpg" title="The Midnight - Endless Summer"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c2402f6c2f3b47ab134051c80ed6f480.jpg" title="Gunship - Dark All Day"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/99947e68c0f44af76f1559af8734afd0.jpg" title="Gunship - Gunship"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/52a7cfefbb075f71860ad604a282d1de.jpg" title="RØRE - Owen"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fdcd8a3afa4a5584cc585c5ee6d06873.jpg" title="Neon Odin - Allfather"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d8c69121d829c66b65e6003a5d4415f8.jpg" title="Gunship - Unicorn"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ce6e2af584a5480b85b79371b219a92e.png" title="Gorillaz - Plastic Beach"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5526cfe62a8b32bc1cbcde8460e82784.jpg" title="The Midnight - Heroes"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7c804b2219fb1978fd44013c9bfa5e24.jpg" title="The Midnight - Endless Summer"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c2402f6c2f3b47ab134051c80ed6f480.jpg" title="Gunship - Dark All Day"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/99947e68c0f44af76f1559af8734afd0.jpg" title="Gunship - Gunship"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3410c69b8e221724593c87cc25b972d7.jpg" title="Kalandra - Kingdom Two Crowns: Norse Lands Soundtrack (Extended)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/52a7cfefbb075f71860ad604a282d1de.jpg" title="RØRE - Owen"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1948a4230e5462ba34787ae383aa924e.jpg" title="Danheim - Domadagr"> </p>
