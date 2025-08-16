@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="right">Pushed commits</td>
-      <td><strong>1841</strong></td>
+      <td><strong>1842</strong></td>
     </tr>
     <tr>
       <td align="right">Opened issues</td>
@@ -29,7 +29,7 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
 
 <div align="center">
-  <h6>My top 10 albums from the last 7 days</h6>
+  <h6>My top albums from the last 7 days</h6>
 </div>
 
 
