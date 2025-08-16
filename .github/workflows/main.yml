@@ -1,4 +1,4 @@
-name: Readme Stats
+name: Readme Updates
 
 on:
   schedule:
@@ -19,11 +19,12 @@ jobs:
         token: ${{ secrets.ACCESS_TOKEN }}
         includeForks: true
         includeOrgRepos: true
-    - name: lastfm to markdown
-      uses: melipass/lastfm-to-markdown@v1.3.1
+    - name: lastfm chart
+      uses: darynwhite/lastfm-chart@0.1
       with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          IMAGE_COUNT: 50
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
