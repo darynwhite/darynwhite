@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td align="right">Submitted pull requests</td>
-      <td><strong>129</strong></td>
+      <td><strong>130</strong></td>
     </tr>
     <tr>
       <td align="right">Reviewed pull requests</td>
