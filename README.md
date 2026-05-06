@@ -9,7 +9,7 @@
     </tr>
     <tr>
       <td align="right">Opened issues</td>
-      <td><strong>97</strong></td>
+      <td><strong>98</strong></td>
     </tr>
     <tr>
       <td align="right">Submitted pull requests</td>
