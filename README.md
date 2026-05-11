@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td align="right">Contributed to repositories</td>
-      <td><strong>15</strong></td>
+      <td><strong>14</strong></td>
     </tr>
   </table>
 
