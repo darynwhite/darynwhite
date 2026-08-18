@@ -27,11 +27,11 @@
 
 </div>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=darynwhite&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=45%2C192ED0%2C000000)](https://git.io/streak-stats) -->
-
+<!--
 <div align="center">
   <h6>My top albums from the last 7 days</h6>
 </div>
-
+-->
 
 <!-- lastfm -->
 <p align="center"></p>
