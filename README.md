@@ -17,7 +17,7 @@
     </tr>
     <tr>
       <td align="right">Reviewed pull requests</td>
-      <td><strong>120</strong></td>
+      <td><strong>121</strong></td>
     </tr>
     <tr>
       <td align="right">Contributed to repositories</td>
