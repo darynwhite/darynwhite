@@ -5,7 +5,7 @@
   <table>
     <tr>
       <td align="right">Pushed commits</td>
-      <td><strong>1786</strong></td>
+      <td><strong>1787</strong></td>
     </tr>
     <tr>
       <td align="right">Opened issues</td>
@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td align="right">Contributed to repositories</td>
-      <td><strong>16</strong></td>
+      <td><strong>14</strong></td>
     </tr>
   </table>
 
